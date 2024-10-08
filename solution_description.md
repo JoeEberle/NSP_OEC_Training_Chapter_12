@@ -333,3 +333,19 @@ These mnemonics are crucial for identifying **organophosphate poisoning** or **n
 - CDC: [Emergency Response to Chemical Poisons](https://www.cdc.gov/niosh/topics/emres/chemagent.html)
 
 
+## Key Terms 
+ 1. **Absorption** - The process by which toxins or chemicals enter the body through the skin, lungs, or digestive system. 
+ ## Key Terms 
+ 1. **Absorption** - The process by which toxins or chemicals enter the body through the skin, lungs, or digestive system. 
+  2. **Dermal Poisons** - Toxins that enter the body through the skin, causing localized or systemic effects. 
+  3. **Designer Drugs** - Synthetic drugs created to mimic the effects of controlled substances, often with unpredictable and dangerous side effects. 
+  4. **Ingested Poisons** - Toxins that enter the body through swallowing and can cause harm to the digestive system and other organs. 
+  5. **Inhaled Poisons** - Toxins that are breathed into the lungs, potentially causing respiratory damage and systemic effects. 
+  6. **Injected Poisons** - Toxins introduced into the body via injection, often leading to rapid systemic effects. 
+  7. **Opioids** - A class of drugs, including both legal prescription painkillers and illegal drugs like heroin, that can cause respiratory depression, overdose, and death. 
+  8. **Poison** - Any substance that can cause harm or death when introduced into the body in sufficient quantities. 
+  9. **Substance Abuse** - The misuse of drugs or alcohol, leading to health, social, or legal consequences. 
+  10. **Toxicological Event** - An incident involving exposure to toxic substances, leading to acute or chronic health effects. 
+  11. **Toxin** - A harmful substance produced by living organisms, such as bacteria, plants, or animals. 
+  12. **Withdrawal** - A group of symptoms that occur when a person who is dependent on a substance suddenly reduces or stops its use. 
+ 
