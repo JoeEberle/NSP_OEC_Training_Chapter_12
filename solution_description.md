@@ -1,11 +1,4 @@
 
-![Image image_filename](solution_sign.png)
-
-# Nsp Oec Training Chapter 12 - National Ski Patrol - Outdoor Emergency Care chapter 12
-National Ski Patrol - Outdoor Emergency Care chapter 12
-
-![Image image_filename](code.png)
-
 
 ## Chapter 12: Substance Abuse & Poisoning
 
@@ -340,44 +333,3 @@ These mnemonics are crucial for identifying **organophosphate poisoning** or **n
 - CDC: [Emergency Response to Chemical Poisons](https://www.cdc.gov/niosh/topics/emres/chemagent.html)
 
 
-
-![Image image_filename](sample.png)
-
-## Getting Started
-To get started with the **Nsp Oec Training Chapter 12** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## Solution Features
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-
-## Notebook Features
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
-    
-## Deliverables or Figures
- ![additional_image](NSP_OEC_Training_Chapter_12.png)  <br>
-    
-
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
-
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
