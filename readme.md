@@ -385,11 +385,8 @@ To get started with the **Nsp Oec Training Chapter 12** solution repository, fol
  ![additional_image](absorption.png)  <br>![additional_image](abused_substances.png)  <br>![additional_image](intro_to_substance_abuse.png)  <br>![additional_image](NSP_OEC_Training_Chapter_12.png)  <br>![additional_image](physiology.png)  <br>![additional_image](poison_contrtol.png)  <br>![additional_image](polypharmacy.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
