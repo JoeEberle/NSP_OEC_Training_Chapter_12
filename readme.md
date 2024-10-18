@@ -348,7 +348,7 @@ These mnemonics are crucial for identifying **organophosphate poisoning** or **n
   10. **Toxicological Event** - An incident involving exposure to toxic substances, leading to acute or chronic health effects. 
   11. **Toxin** - A harmful substance produced by living organisms, such as bacteria, plants, or animals. 
   12. **Withdrawal** - A group of symptoms that occur when a person who is dependent on a substance suddenly reduces or stops its use. 
- ![Image image_filename](sample.png)
+ ![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
