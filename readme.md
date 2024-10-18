@@ -4,7 +4,25 @@
 
 ## National Ski Patrol - Outdoor Emergency Care chapter 12
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 
 ## Chapter 12: Substance Abuse & Poisoning
 
@@ -354,7 +372,13 @@ These mnemonics are crucial for identifying **organophosphate poisoning** or **n
   10. **Toxicological Event** - An incident involving exposure to toxic substances, leading to acute or chronic health effects. 
   11. **Toxin** - A harmful substance produced by living organisms, such as bacteria, plants, or animals. 
   12. **Withdrawal** - A group of symptoms that occur when a person who is dependent on a substance suddenly reduces or stops its use. 
- ![Image image_filename](code.png)![Image image_filename](sample.png)
+ 
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
