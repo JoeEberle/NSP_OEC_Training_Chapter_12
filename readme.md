@@ -43,7 +43,7 @@ The process by which a drug enters and moves through the body is known as **phar
    - **Factors affecting excretion**: Kidney function, hydration status, and the drug's chemical properties affect how efficiently it is excreted. Drugs that are not properly metabolized or excreted may accumulate in the body, leading to toxicity.
    - **Example**: Most medications are filtered by the kidneys and excreted in the urine. Drugs like antibiotics and some blood pressure medications are eliminated this way.
 
-In summary, a drug’s journey through the body—absorption, distribution, metabolism, and excretion—determines how it exerts its effects and is ultimately cleared. Understanding these stages helps in optimizing drug therapy and managing drug interactions and side effects. 
+In summary, a drugâ€™s journey through the bodyâ€”absorption, distribution, metabolism, and excretionâ€”determines how it exerts its effects and is ultimately cleared. Understanding these stages helps in optimizing drug therapy and managing drug interactions and side effects. 
 
 Sources:
 - [Mayo Clinic on pharmacokinetics](https://www.mayoclinic.org/)
@@ -314,25 +314,25 @@ Both sources provide essential, accessible information for anyone dealing with a
 
 This mnemonic is used to describe the **muscarinic** effects of cholinergic poisoning.
 
-1. **S** – **Salivation**: Excessive production of saliva.
-2. **L** – **Lacrimation**: Excessive tearing or watery eyes.
-3. **U** – **Urination**: Involuntary or frequent urination.
-4. **D** – **Defecation/Diarrhea**: Involuntary bowel movements or diarrhea.
-5. **G** – **Gastrointestinal upset**: Abdominal cramping, nausea, or vomiting.
-6. **E** – **Emesis**: Vomiting.
-7. **M** – **Miosis**: Pinpoint pupils (constricted pupils), a classic sign of organophosphate or nerve agent exposure.
+1. **S** â€“ **Salivation**: Excessive production of saliva.
+2. **L** â€“ **Lacrimation**: Excessive tearing or watery eyes.
+3. **U** â€“ **Urination**: Involuntary or frequent urination.
+4. **D** â€“ **Defecation/Diarrhea**: Involuntary bowel movements or diarrhea.
+5. **G** â€“ **Gastrointestinal upset**: Abdominal cramping, nausea, or vomiting.
+6. **E** â€“ **Emesis**: Vomiting.
+7. **M** â€“ **Miosis**: Pinpoint pupils (constricted pupils), a classic sign of organophosphate or nerve agent exposure.
 
 ### **DUMBELS**:
 
 This mnemonic is used similarly to describe the **muscarinic** and some **nicotinic** effects of cholinergic poisoning.
 
-1. **D** – **Defecation/Diarrhea**: Involuntary bowel movements or diarrhea.
-2. **U** – **Urination**: Involuntary or frequent urination.
-3. **M** – **Miosis**: Pinpoint pupils (constricted pupils).
-4. **B** – **Bradycardia**: Abnormally slow heart rate.
-5. **E** – **Emesis**: Vomiting.
-6. **L** – **Lacrimation**: Excessive tearing.
-7. **S** – **Salivation**: Excessive production of saliva, leading to drooling.
+1. **D** â€“ **Defecation/Diarrhea**: Involuntary bowel movements or diarrhea.
+2. **U** â€“ **Urination**: Involuntary or frequent urination.
+3. **M** â€“ **Miosis**: Pinpoint pupils (constricted pupils).
+4. **B** â€“ **Bradycardia**: Abnormally slow heart rate.
+5. **E** â€“ **Emesis**: Vomiting.
+6. **L** â€“ **Lacrimation**: Excessive tearing.
+7. **S** â€“ **Salivation**: Excessive production of saliva, leading to drooling.
 
 ### **Application**:
 These mnemonics are crucial for identifying **organophosphate poisoning** or **nerve agent exposure**, which require urgent medical intervention, typically including the use of **atropine** (an anticholinergic agent) and **pralidoxime** (to reactivate acetylcholinesterase). Early recognition of these symptoms helps guide rapid treatment to prevent respiratory failure and other life-threatening complications.
